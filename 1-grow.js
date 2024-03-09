@@ -1,3 +1,7 @@
+// WPU coding challange 2024
+// 1/366
+//https://github.com/Zakianwar21/coding-chalange
+
 // function grow(x) {
 //     let result = x[0];
 
